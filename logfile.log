@@ -1,0 +1,207 @@
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,789 INFO  [Log] **************************************************************************************** 
+2014-09-22 04:07:57,791 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-09-22 04:07:57,793 INFO  [Log] Opening Browser 
+2014-09-22 04:08:05,443 INFO  [Log] Mozilla browser started 
+2014-09-22 04:08:05,472 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2014-09-22 04:08:05,472 INFO  [Log] X 
+2017-03-22 13:01:11,981 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:11,981 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:11,982 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 13:01:11,982 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:11,982 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:11,983 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 13:01:11,984 INFO  [Log] Opening Browser 
+2017-03-22 13:01:12,412 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-03-22 13:01:12,414 INFO  [Log] Closing the browser 
+2017-03-22 13:01:12,414 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-22 13:01:12,418 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 13:01:12,418 INFO  [Log] X 
+2017-03-22 13:01:12,418 INFO  [Log] X 
+2017-03-22 13:01:12,418 INFO  [Log] X 
+2017-03-22 13:01:12,418 INFO  [Log] X 
+2017-03-22 13:01:26,326 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:26,326 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:26,326 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 13:01:26,326 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:26,326 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:26,328 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 13:01:26,329 INFO  [Log] Opening Browser 
+2017-03-22 13:01:26,468 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-03-22 13:01:26,470 INFO  [Log] Closing the browser 
+2017-03-22 13:01:26,470 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-22 13:01:26,471 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 13:01:26,471 INFO  [Log] X 
+2017-03-22 13:01:26,471 INFO  [Log] X 
+2017-03-22 13:01:26,471 INFO  [Log] X 
+2017-03-22 13:01:26,471 INFO  [Log] X 
+2017-03-22 13:01:42,048 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:42,049 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:42,049 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 13:01:42,049 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:42,049 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:01:42,051 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 13:01:42,053 INFO  [Log] Opening Browser 
+2017-03-22 13:01:42,196 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-03-22 13:01:42,198 INFO  [Log] Closing the browser 
+2017-03-22 13:01:42,198 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-22 13:01:42,199 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 13:01:42,199 INFO  [Log] X 
+2017-03-22 13:01:42,199 INFO  [Log] X 
+2017-03-22 13:01:42,199 INFO  [Log] X 
+2017-03-22 13:01:42,199 INFO  [Log] X 
+2017-03-22 13:02:08,727 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:02:08,728 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:02:08,728 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 13:02:08,728 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:02:08,728 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:02:08,730 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 13:02:08,731 INFO  [Log] Opening Browser 
+2017-03-22 13:02:08,904 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-03-22 13:02:08,907 INFO  [Log] Closing the browser 
+2017-03-22 13:02:08,907 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-22 13:02:08,908 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 13:02:08,908 INFO  [Log] X 
+2017-03-22 13:02:08,908 INFO  [Log] X 
+2017-03-22 13:02:08,908 INFO  [Log] X 
+2017-03-22 13:02:08,908 INFO  [Log] X 
+2017-03-22 13:07:41,508 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:07:41,509 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:07:41,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 13:07:41,509 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:07:41,509 INFO  [Log] **************************************************************************************** 
+2017-03-22 13:07:41,510 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 13:07:41,511 INFO  [Log] Opening Browser 
+2017-03-22 13:07:41,691 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-03-22 13:07:41,694 INFO  [Log] Closing the browser 
+2017-03-22 13:07:41,694 ERROR [Log] Not able to Close the Browser --- null 
+2017-03-22 13:07:41,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 13:07:41,697 INFO  [Log] X 
+2017-03-22 13:07:41,697 INFO  [Log] X 
+2017-03-22 13:07:41,697 INFO  [Log] X 
+2017-03-22 13:07:41,698 INFO  [Log] X 
+2017-03-22 14:15:33,863 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:15:33,894 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:15:33,894 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:15:33,894 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:15:33,894 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:15:33,910 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:17:58,328 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:17:58,328 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:17:58,328 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:17:58,328 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:17:58,328 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:17:58,328 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:17:58,328 INFO  [Log] Opening Browser 
+2017-03-22 14:18:16,425 INFO  [Log] Chrome browser started 
+2017-03-22 14:18:16,440 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 14:18:16,440 INFO  [Log] X 
+2017-03-22 14:18:16,440 INFO  [Log] X 
+2017-03-22 14:18:16,440 INFO  [Log] X 
+2017-03-22 14:18:16,440 INFO  [Log] X 
+2017-03-22 14:20:35,535 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:20:35,535 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:20:35,535 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:20:35,535 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:20:35,535 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:20:35,535 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:20:35,535 INFO  [Log] Opening Browser 
+2017-03-22 14:20:38,788 INFO  [Log] Chrome browser started 
+2017-03-22 14:20:38,815 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 14:20:38,815 INFO  [Log] X 
+2017-03-22 14:20:38,815 INFO  [Log] X 
+2017-03-22 14:20:38,815 INFO  [Log] X 
+2017-03-22 14:20:38,815 INFO  [Log] X 
+2017-03-22 14:21:29,556 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:21:29,556 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:21:29,556 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:21:29,556 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:21:29,556 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:21:29,557 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:21:29,558 INFO  [Log] Opening Browser 
+2017-03-22 14:21:33,832 INFO  [Log] Chrome browser started 
+2017-03-22 14:21:33,849 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 14:21:33,849 INFO  [Log] X 
+2017-03-22 14:21:33,849 INFO  [Log] X 
+2017-03-22 14:21:33,849 INFO  [Log] X 
+2017-03-22 14:21:33,850 INFO  [Log] X 
+2017-03-22 14:22:35,551 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:22:35,551 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:22:35,551 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:22:35,551 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:22:35,551 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:22:35,551 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:23:13,054 INFO  [Log] Opening Browser 
+2017-03-22 14:23:17,125 INFO  [Log] Chrome browser started 
+2017-03-22 14:23:17,142 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 14:23:17,142 INFO  [Log] X 
+2017-03-22 14:23:17,143 INFO  [Log] X 
+2017-03-22 14:23:17,143 INFO  [Log] X 
+2017-03-22 14:23:17,143 INFO  [Log] X 
+2017-03-22 14:24:24,601 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:24:24,640 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:24:24,640 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:24:24,640 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:24:24,640 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:24:24,640 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:25:40,570 INFO  [Log] Opening Browser 
+2017-03-22 14:25:43,926 INFO  [Log] Chrome browser started 
+2017-03-22 14:25:58,145 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 14:25:58,145 INFO  [Log] X 
+2017-03-22 14:25:58,145 INFO  [Log] X 
+2017-03-22 14:25:58,145 INFO  [Log] X 
+2017-03-22 14:25:58,145 INFO  [Log] X 
+2017-03-22 14:26:28,150 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:26:28,150 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:26:28,150 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:26:28,150 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:26:28,150 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:26:28,165 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:26:28,165 INFO  [Log] Opening Browser 
+2017-03-22 14:27:14,770 INFO  [Log] Chrome browser started 
+2017-03-22 14:33:30,174 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:33:30,174 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:33:30,174 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:33:30,174 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:33:30,174 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:33:30,174 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:33:30,174 INFO  [Log] Opening Browser 
+2017-03-22 14:33:33,717 INFO  [Log] Chrome browser started 
+2017-03-22 14:34:54,180 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:34:54,181 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:34:54,181 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-22 14:34:54,181 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:34:54,181 INFO  [Log] **************************************************************************************** 
+2017-03-22 14:34:54,183 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-22 14:34:54,184 INFO  [Log] Opening Browser 
+2017-03-22 14:34:57,639 INFO  [Log] Chrome browser started 
+2017-03-22 14:35:26,427 INFO  [Log] Navigating to URL 
+2017-03-22 14:35:41,524 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-03-22 14:35:45,810 INFO  [Log] Entering the text in txtbx_UserName 
+2017-03-22 14:35:46,086 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-22 14:35:46,448 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-22 14:35:46,749 INFO  [Log] Wait for 5 seconds 
+2017-03-22 14:35:51,824 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-03-22 14:36:01,965 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6', time: '2017-03-02 09:34:51 -0800'
+System info: host: 'DLUKIOSK94646', ip: '10.207.171.53', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\aaga60\AppData\Local\Temp\scoped_dir9748_23939}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 56c18060b0c95fc88a0e247648069365
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-03-22 14:36:02,022 INFO  [Log] Closing the browser 
+2017-03-22 14:36:04,752 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-22 14:36:04,752 INFO  [Log] X 
+2017-03-22 14:36:04,752 INFO  [Log] X 
+2017-03-22 14:36:04,752 INFO  [Log] X 
+2017-03-22 14:36:04,752 INFO  [Log] X 

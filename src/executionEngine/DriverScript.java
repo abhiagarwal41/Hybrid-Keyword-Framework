@@ -29,8 +29,10 @@ public class DriverScript {
 	
 	public DriverScript() throws NoSuchMethodException, SecurityException{
 		actionKeywords = new ActionKeywords();
+		actionKeywords.startTest();
 		method = actionKeywords.getClass().getMethods();	
 	}
+	
 	
     public static void main(String[] args) throws Exception {
     	ExcelUtils.setExcelFile(Constants.Path_TestData);
@@ -53,6 +55,7 @@ public class DriverScript {
 				sRunMode = ExcelUtils.getCellData(iTestcase, Constants.Col_RunMode,Constants.Sheet_TestCases);
 				if (sRunMode.equals("Yes")){
 					Log.startTestCase(sTestCaseID);
+					actionKeywords.startTestCase(sTestCaseID);
 					iTestStep = ExcelUtils.getRowContains(sTestCaseID, Constants.Col_TestCaseID, Constants.Sheet_TestSteps);
 					iTestLastStep = ExcelUtils.getTestStepsCount(Constants.Sheet_TestSteps, sTestCaseID, iTestStep);
 					bResult=true;
@@ -64,15 +67,18 @@ public class DriverScript {
 						if(bResult==false){
 							ExcelUtils.setCellData(Constants.KEYWORD_FAIL,iTestcase,Constants.Col_Result,Constants.Sheet_TestCases);
 							Log.endTestCase(sTestCaseID);
+							actionKeywords.endTestCase(sTestCaseID);
 							break;
 							}						
 						}
 					if(bResult==true){
 					ExcelUtils.setCellData(Constants.KEYWORD_PASS,iTestcase,Constants.Col_Result,Constants.Sheet_TestCases);
 					Log.endTestCase(sTestCaseID);	
+					actionKeywords.endTestCase(sTestCaseID);
 						}					
 					}
 				}
+			actionKeywords.endTest();
     		}	
      
      private static void execute_Actions() throws Exception {

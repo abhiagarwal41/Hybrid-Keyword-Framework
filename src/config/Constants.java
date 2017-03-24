@@ -4,8 +4,9 @@ public class Constants {
 	
 	//System Variables
 	public static final String URL = "http://www.store.demoqa.com";
-	public static final String Path_TestData = "C:\\Users\\aaga60\\workspace\\Hybrid Keyword Driven\\src\\dataEngine\\DataEngine.xlsx";
-	public static final String Path_OR = "C:\\Users\\aaga60\\workspace\\Hybrid Keyword Driven\\src\\config\\OR.txt";
+	public static final String Path_TestData = "C:\\Users\\aaga60\\git\\Hybrid-Keyword-Framework\\src\\dataEngine\\DataEngine.xlsx";
+	public static final String Path_OR = "C:\\Users\\aaga60\\git\\Hybrid-Keyword-Framework\\src\\config\\OR.txt";
+	public static final String PROJECT_PATH = "C:\\Users\\aaga60\\git\\Hybrid-Keyword-Framework";
 	public static final String File_TestData = "DataEngine.xlsx";
 	public static final String KEYWORD_FAIL = "FAIL";
 	public static final String KEYWORD_PASS = "PASS";

@@ -2,7 +2,7 @@ package config;
 
 import java.util.concurrent.TimeUnit;
 
-import static executionEngine.DriverScript.OR;
+import static executionEngine.TestNgClass.OR;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

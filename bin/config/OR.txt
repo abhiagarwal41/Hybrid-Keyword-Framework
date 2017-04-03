@@ -1,0 +1,15 @@
+# Home Page Objects
+btn_MyAccount=.//*[@id='account']/a
+btn_LogOut=.//*[@id='account_logout']/a
+img_Product=.//*[@id='footer']/section[2]/ul/li[2]/a[2]/img
+
+
+# Login Page Object
+txtbx_UserName=.//*[@id='log']
+txtbx_Password=.//*[@id='pwd']
+btn_LogIn=.//*[@id='login']
+
+
+btn_AddToCart=.//div[@class='input-button-buy']
+btn_ProceedToCheckout=.//*[@id='fancy_notification_content']/a[1]
+txt_ProductName=.//td[contains(@class,'product_name')]/a
